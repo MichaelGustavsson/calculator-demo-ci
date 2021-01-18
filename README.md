@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/MichaelGustavsson/calculator-demo-ci.svg?branch=master)](https://travis-ci.com/MichaelGustavsson/calculator-demo-ci)
