@@ -3,10 +3,6 @@ class Calculator {
     return x + y;
   }
 
-  subtract(x, y) {
-    return x - y;
-  }
-
   multiply(x, y) {
     return x * y;
   }
