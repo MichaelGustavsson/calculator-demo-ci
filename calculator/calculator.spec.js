@@ -48,7 +48,7 @@ describe("calculator.js", () => {
     it("should be able to add two numbers", () => {
       const calculator = new Calculator();
       let result = calculator.add(5, 5);
-      expect(result).toBe(10);
+      expect(result).toBe(13`);
     });
 
     it("should be able to subtract two numbers", () => {
